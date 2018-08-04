@@ -1,5 +1,8 @@
 # MERN STACK APP
 
+## Production
+App can be accessed [here](https://dry-cove-98782.herokuapp.com/)
+
 This is an full-stack application built for learning purposes. 
 
 The back-end is built with: 
